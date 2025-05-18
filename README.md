@@ -1,78 +1,91 @@
-<h1 align="center">🚀 Olá, seja bem-vindo ao meu perfil!</h1>
+<!-- Banner animado com apresentação -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Olá%2C+sou+Rafael+Jesus!;Desenvolvedor+Front-End;Foco+em+React%2C+Next.js+e+TypeScript;Bem-vindo+ao+meu+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<h3 align="center">
-  Rafael Jesus | Desenvolvedor Front-End
-</h3>
+<h1 align="center">🌟 Seja bem-vindo ao meu perfil!</h1>
+
+<h3 align="center">💻 Rafael Jesus | Desenvolvedor Front-End</h3>
 
 <p align="center">
   <a href="https://github.com/HEROjesus?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfólio-GitHub-000?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Portfólio-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rafael-jesus-779421208/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rafaeldejesus200000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🏆 Sobre mim
+## 🧠 Sobre mim
 
-💡 Desenvolvedor Front-End apaixonado por tecnologia e inovação, especializado na criação de interfaces modernas, performáticas e acessíveis. Busco sempre as melhores práticas para garantir qualidade, escalabilidade e experiência do usuário de alto nível.
-
-🎯 Foco principal: **React.js, Next.js, TypeScript e desenvolvimento otimizado para Web**.
-
-🚀 Em constante aprendizado, aprimorando minhas habilidades em arquitetura de software, padrões de design e desenvolvimento Full Stack.
-
-🛠️ Atualmente aprimorando meu conhecimento em: **React avançado, otimização de aplicações e acessibilidade digital**.
+🎯 Desenvolvedor focado em criar aplicações web com **experiência de usuário intuitiva**, performance e código limpo.  
+💼 Busco constante evolução técnica, com ênfase em **React.js, Next.js, TypeScript e boas práticas de acessibilidade.**  
+🚀 Em transição para Full Stack, estudando backend com Node.js, bancos de dados e arquitetura escalável.
 
 ---
 
-## 🔥 Habilidades Técnicas
+## 🛠️ Tecnologias que utilizo
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" width="50"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 🎓 Foco Atual de Aprendizado
+
+- React Avançado
+- Acessibilidade digital
+- Performance com Next.js
+- Design Patterns & Clean Code
+- Backend com Node.js e bancos de dados
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaeldev-stack&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldev-stack&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafaeldev-stack&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldev-stack&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" height="165" />
+</div>
 
 ---
 
-## 📌 Diferenciais
-✅ **Código limpo e boas práticas** - Aplicação de padrões SOLID, Clean Code e otimização de performance  
-✅ **Experiência com metodologias ágeis** - Trabalho com Scrum e Kanban  
-✅ **Atenção à acessibilidade** - Desenvolvimento de interfaces inclusivas  
-✅ **Versionamento e colaboração** - Experiência sólida com Git e GitHub  
+## ⚡ Diferenciais
+
+✅ **Código limpo** com padrões SOLID e Clean Code  
+✅ **Acessibilidade real** - foco na inclusão digital  
+✅ **Experiência com versionamento e colaboração Git/GitHub**  
+✅ **Trabalho com Scrum/Kanban** em times ágeis  
+✅ **Comunicação clara** e constante evolução técnica  
 
 ---
 
-## 📢 Entre em contato
+## 📫 Vamos nos conectar
 
 <p align="center">
   <a href="mailto:rafaeldejesus200000@gmail.com">
-    <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/rafael-jesus-779421208/">
-    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafaeldev-stack&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rafaeldev-stack&color=00BFFF" alt="Profile Views"/>
 </p>
 
-<h4 align="center">Obrigado pela visita! Vamos construir algo incrível juntos. 🚀</h4>
+<h4 align="center">💙 Obrigado pela visita. Vamos construir algo incrível juntos! 🚀</h4>
